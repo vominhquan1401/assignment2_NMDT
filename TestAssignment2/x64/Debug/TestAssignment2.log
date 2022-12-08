@@ -1,0 +1,6 @@
+﻿  assignment2.cpp
+D:\assignment2_NMDT\TestAssignment2\assignment2.cpp(17,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\assignment2_NMDT\TestAssignment2\assignment2.cpp(98,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\assignment2_NMDT\TestAssignment2\assignment2.cpp(118,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\assignment2_NMDT\TestAssignment2\assignment2.cpp(134,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TestAssignment2.vcxproj -> D:\assignment2_NMDT\TestAssignment2\x64\Debug\TestAssignment2.exe
